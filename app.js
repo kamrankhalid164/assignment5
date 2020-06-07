@@ -125,11 +125,3 @@ document.write("Variables name can only contain , numbers , $  and _.For example
         var b=5
         var c=a%b;
         document.write("Modulus of "+a+" and "+b+" is "+c);
-    
-
-
-                                    //                                           Request
-
-
-                                    // Sir due to my university's exam i'm busy in preperation of exams that is why i can not Complete the 
-                                    // assignment. Sir it is a very easy assignment but take time . i have completed the previous all assignments
